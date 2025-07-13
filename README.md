@@ -1,1 +1,3 @@
-# chatbot-gemini-api
+# General Purpose Chatbot for Internship
+
+A simple chatbot...
